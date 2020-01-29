@@ -3,9 +3,9 @@
     "access_token": "testToken", 
     "token_type": "bearer" 
 },
-{
   "integration": {
     "success": "true", 
     "accountIdentifier": "testUser" 
+}
 }
 
